@@ -6,7 +6,7 @@
 }
 #header{
     background-image:
-    linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #009688),url('img/masjid.png');
+    linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #009688),url('masjid.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -157,9 +157,6 @@ nav ul li a{
     transition: 0.5s;
     border-radius: 10px;
     float: right;
-}
-.fasilitas-vid:hover{
-    transform: scale(1.2);
 }
 .fasilitas h1{
     text-align: left;
