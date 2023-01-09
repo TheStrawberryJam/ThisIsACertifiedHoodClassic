@@ -204,7 +204,9 @@ nav ul li a{
         flex-basis: 100%;
     }
     .fasilitas-vid{
-        flex-basis: 100%
+        flex-basis: 100%;
+        width: 450;
+        height: 300;   
     }
 }
 
