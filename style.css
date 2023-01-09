@@ -203,6 +203,9 @@ nav ul li a{
     .fasilitas-img{
         flex-basis: 100%;
     }
+    .fasilitas-vid{
+        flex-basis: 100%
+    }
 }
 
 /*--event--*/
