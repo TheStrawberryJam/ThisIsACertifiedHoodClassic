@@ -185,10 +185,10 @@ nav ul li a{
     line-height: 50px;
     border-radius: 8px;
     color: #009688;
+    background-color: #fff;
     border: 1px solid #009688;
     float: left;
     margin: 10px;
-    
     transition: 0.5s;
 } 
 .fasilitas-icon .fa:hover{ 
