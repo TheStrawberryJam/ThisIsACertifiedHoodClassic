@@ -190,7 +190,7 @@ nav ul li a{
     margin: 10px;
 } 
 .fasilitas-icon .fa:hover{ 
-    invert(1);
+    filter: invert(100%);
 }
 .fasilitas-text p{
     padding: 10px 20px;
