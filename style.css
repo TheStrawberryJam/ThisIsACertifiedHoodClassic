@@ -189,6 +189,9 @@ nav ul li a{
     float: left;
     margin: 10px;
 } 
+.fasilitas-icon .fa:hover{ 
+    invert(1);
+}
 .fasilitas-text p{
     padding: 10px 20px;
     text-align: initial;
