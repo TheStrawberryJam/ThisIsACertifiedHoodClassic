@@ -188,10 +188,12 @@ nav ul li a{
     border: 1px solid #009688;
     float: left;
     margin: 10px;
+    
     transition: 0.5s;
 } 
 .fasilitas-icon .fa:hover{ 
-    filter: invert(100%);
+    background-color: #009688;
+    color: #fff;
 }
 .fasilitas-text p{
     padding: 10px 20px;
